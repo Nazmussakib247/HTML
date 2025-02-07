@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Favicon</title>
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+</head>
+<body>
+    <h1>Used Favicon in this title bar</h1>
+    <p>A favicon is a small image displayed next to the page title in the browser tab.</p>
+</body>
+</html>
