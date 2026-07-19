@@ -28,8 +28,8 @@ HTML/
 | `01_Basic.html` | Headings, paragraphs & basic elements |
 | `02_Color.html` | Colors in HTML |
 | `03_1` – `03_3` | CSS styling — Inline, Internal & External |
-| `05_Image1.html`, `05_Img2.html` | Images |
 | `04_Links.html` | Hyperlinks & link styling with CSS |
+| `05_Image1.html`, `05_Img2.html` | Images |
 | `06_Favicon.html` | Favicons |
 | `07_title.html` | Page titles |
 | `08_Table.html` | Tables |
@@ -60,11 +60,8 @@ Open any `.html` file in your browser to see it in action.
 
 ## Author
 
-**Nazmus Sakib**
+**Nazmus Sakib** — [GitHub](https://github.com/Nazmussakib247) · [LinkedIn](https://www.linkedin.com/in/nazmussakib247/)
 
-- GitHub: [@Nazmussakib247](https://github.com/Nazmussakib247)
-- - LinkedIn: [nazmussakib247](https://www.linkedin.com/in/nazmussakib247/)
- 
-  - ---
+---
 
-  ⭐ If this helps your own learning, feel free to star the repo!
+⭐ If this helps your own learning, feel free to star the repo!
